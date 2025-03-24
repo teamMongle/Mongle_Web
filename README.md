@@ -1,2 +1,2 @@
-# Mongle_Web
-Mongle_ frontend repository
+# 몽글
+몽글몽글한 이야기들이 가득한 곳!
